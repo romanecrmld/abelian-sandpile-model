@@ -1,4 +1,4 @@
-# abelian-sandpile-model (SOC) – SAS Implementation
+# abelian-sandpile-model 
 
 This project presents an implementation of the Abelian Sandpile modelan example of self-organized criticality in complex systems.
 
