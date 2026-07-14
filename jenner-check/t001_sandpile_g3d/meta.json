@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_sandpile_g3d",
+  "source_file": "Sandpile.sas",
+  "source_blob_sha": "64dd4f3b438faa70fba4acecdcd26e8d6a45729f",
+  "source_commit": "d0fcbb693e6e8230fb0560d964bec1d854562977",
+  "notes": "Abelian sandpile simulation: %GenerateSandpile macro runs PROC IML to topple a 31x31 grid seeded with 2**10 grains at center, builds a 961-row sandpiles3d dataset, then renders it with PROC G3D. Byte-identical copy of the author's script; no data substitution needed (fully self-contained, computed inline). autoexec caps listing rows at 100."
+}

@@ -1,0 +1,12 @@
+NOTE: Jenner v1.5.30 (build v1.5.30+unknown.20260714T061458Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: PROC IML 
+
+
+NOTE: PROC IML elapsed:
+  wall  0.48 seconds
+  cpu   0.48 seconds
+NOTE: PROC G3D data=sandpiles3d
+
+NOTE: ODS plot written: g3d_surface.spec.json

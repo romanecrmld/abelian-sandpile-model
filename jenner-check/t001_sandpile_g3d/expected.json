@@ -1,0 +1,13 @@
+{
+  "_captured_at": "2026-07-14T16:25:38Z",
+  "_captured_run_id": "r_978cccb8800f44c1b157abab5cae1ef2",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: PROC IML",
+    "NOTE: PROC G3D data=sandpiles3d",
+    "NOTE: ODS plot written: g3d_surface.spec.json"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}
